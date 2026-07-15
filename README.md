@@ -1,6 +1,6 @@
 # AutoClicker 2026 - #1 Free Auto Clicker 🚀
 
-**The fastest, safest, and most powerful free auto clicker in 2026.**
+**The fastest, safest, and most powerful free auto clicker in 2026. PERIOD**
 
 Automate mouse clicks and keyboard inputs with extreme precision. Perfect for **Minecraft**, **Roblox**, **OSRS**, **Hypixel**, idle games, data entry, and repetitive tasks.
 
